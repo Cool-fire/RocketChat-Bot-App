@@ -1,0 +1,15 @@
+{
+    "id": "3e545de6-c210-4698-bc2a-62b4e53a680e",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "upendra",
+        "homepage": "https://google.com",
+        "support": "https://google.com"
+    },
+    "name": "Bot",
+    "nameSlug": "bot",
+    "classFile": "BotApp.ts",
+    "description": "create bots through app"
+}
